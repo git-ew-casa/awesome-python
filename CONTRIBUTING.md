@@ -2,6 +2,10 @@
 
 Your contributions are always welcome!
 
+# Kurs Ändern
+
+"Bitte sende eine E-Mail an: lieblings_kollege@firma.com"
+
 ## Guidelines
 
 * Add one link per Pull Request.
